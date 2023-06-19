@@ -1,0 +1,14 @@
+{
+    "group":"Group",
+    "headquarter":"Headquarter",
+    "taxId":"Tax ID",
+    "status":"Status",
+   
+    "noResults":"No data resulte",
+    "batchName":"ชื่อ",
+    "totalFiles":"เอกสารทั้งหมด",
+    "totalAmount":"จำนวนเงินทั้งหมด",
+    "jobType":"ประเภท",
+    "date":"วันที่",
+    "detail":"รายละเอียด"
+}

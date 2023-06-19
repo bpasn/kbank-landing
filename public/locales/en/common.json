@@ -1,0 +1,17 @@
+{
+    "searchCorporate":"Search Headquarter",
+    "corporateName":"Corporate Name",
+    "corporate":"Corporate",
+    "changePassword":"Change Password",
+    "placeHolderCorporateSearch":"Please enter 4 or more charactor",
+    "taxId":"TAX ID",
+    "status":"Status",
+    "statusAll":"all status",
+    "statusPending":"Pending",
+    "statusReject":"Reject",
+    "btnSearch":"Search",
+    "contract":"Contract us",
+    "signout":"Sign Out",
+    "th":"TH",
+    "en":"EN"
+}

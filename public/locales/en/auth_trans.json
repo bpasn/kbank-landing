@@ -1,0 +1,7 @@
+{
+    "welcom":"Welcome to",
+    "user_id":"User ID",
+    "password":"Password",
+    "error_userId_message":"The User Id field is required.",
+    "error_password_message":"The password field is required."
+}

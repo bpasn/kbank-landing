@@ -1,0 +1,14 @@
+{
+    "group":"Group",
+    "headquarter":"Headquarter",
+    "taxId":"Tax ID",
+    "status":"Status",
+    "detail":"Detail",
+    "noResults":"No data resulte",
+    "batchName":"Batch Name",
+    "totalFiles":"Total Files",
+    "totalAmount":"Total Amount",
+    "jobType":"Job Type",
+    "date":"Date"
+   
+}

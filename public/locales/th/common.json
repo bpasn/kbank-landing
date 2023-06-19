@@ -1,0 +1,17 @@
+{
+    "searchCorporate":"ค้นหาสาขาใหญ่",
+    "corporateName":"ชื่อบริษัท",
+    "placeHolderCorporateSearch":"กรุณากรอกตัวอักษรอย่างน้อย 4 ตัวขึ้นไป",
+    "corporate":"จัดการบริษัท",
+    "changePassword":"เปลี่ยนรหัสผ่าน",
+    "taxId":"เลขประจำตัวผู้เสียภาษี",
+    "status":"สถานะ",
+    "statusAll":"สถานะทั้งหมด",
+    "statusPending":"รอดำเนินการ",
+    "statusReject":"ปฏิเสธ",
+    "btnSearch":"ค้นหา",
+    "contract":"ติดต่อเรา",
+    "signout":"ออกจากระบบ",
+    "th":"ไทย",
+    "en":"อังกฤษ"    
+}
